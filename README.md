@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/denvers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denvers" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/denver.schouw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denver.schouw" height="30" width="40" /></a>
+  ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
